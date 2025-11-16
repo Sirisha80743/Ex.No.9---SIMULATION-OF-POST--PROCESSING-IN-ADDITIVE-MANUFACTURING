@@ -1,7 +1,5 @@
 # Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
-### DATE: 
-
 ## AIM: 
 ### To simulate the post processing of 3d printed parts via support Removal, UV Curing & Heat Treatment.
 
@@ -47,8 +45,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SIRIHSA P
+### Register Number:212224040321
+
+<img width="1910" height="883" alt="image" src="https://github.com/user-attachments/assets/62c5d9c4-8c25-47d1-9f60-9870ca5cf5e5" />
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
